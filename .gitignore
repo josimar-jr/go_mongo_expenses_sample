@@ -1,0 +1,8 @@
+
+node_modules/
+.vscode/
+.workdir/
+lastupdate.tmp
+routers/commentsRouter_controllers.go
+meus_trocados.exe
+meus_trocados.exe~
