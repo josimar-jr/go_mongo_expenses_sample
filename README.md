@@ -1,4 +1,4 @@
-# Aplicação de Controle Financeiro
+# Sample application to import a xlsx file
 
 ```
 	go get -u github.com/beego/bee
@@ -7,4 +7,4 @@
 ```
 
 
-inspecting mongo container `docker exec -it meustrocados_mongo_1 mongo`
+inspecting mongo container `docker exec -it mongo_container mongo`
